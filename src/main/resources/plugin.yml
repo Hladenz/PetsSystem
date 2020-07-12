@@ -1,0 +1,14 @@
+name: PetsSystem
+version: ${project.version}
+main: xyz.crystallizedprison.petssystem.PetsSystem
+api-version: 1.13
+authors: [Hladenz]
+description: Fuck You Tye
+website: twitch.tv/Hladenz
+commands:
+  incubator:
+    description: Used to Hatch Eggs
+  petsystem:
+    description: A admin command for petsystem
+  pets:
+    description: the client command
